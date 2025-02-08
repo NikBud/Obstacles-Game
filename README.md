@@ -4,7 +4,7 @@
 
 ### Description
 
-Obstacles Game is an engaging 2D game developed using JavaScript and the Canvas API. The player's objective is to navigate through different levels filled with moving and static obstacles to reach the exit. The game progressively increases in difficulty, challenging the player. Project is written with Vite.
+Obstacles Game is an engaging 2D game developed using JavaScript and the Canvas API. The player's objective is to navigate through different levels filled static obstacles to reach the exit. The game progressively increases in difficulty, challenging the player. Project is written with Vite.
 
 ![Obstacles Game Screenshot](public/game_demonstartion.png)
 
@@ -39,7 +39,7 @@ Obstacles Game is an engaging 2D game developed using JavaScript and the Canvas 
 
 ### Description
 
-Obstacles Game est un jeu 2D captivant développé en JavaScript avec l'API Canvas. L'objectif du joueur est de naviguer à travers différents niveaux remplis d'obstacles statiques et mobiles afin d'atteindre la sortie. La difficulté augmente progressivement, mettant le joueur à l'épreuve. Le projet est développé avec Vite.
+Obstacles Game est un jeu 2D captivant développé en JavaScript avec l'API Canvas. L'objectif du joueur est de naviguer à travers différents niveaux remplis d'obstacles statiques afin d'atteindre la sortie. La difficulté augmente progressivement, mettant le joueur à l'épreuve. Le projet est développé avec Vite.
 
 ### Comment Jouer
 
