@@ -1,6 +1,6 @@
 import { defineConfig } from 'vite'
 
 export default defineConfig({
-  build: { outDir: 'dist' },
+  build: { outDir: '..' },
   base: '/Obstacles-Game/'
 });
